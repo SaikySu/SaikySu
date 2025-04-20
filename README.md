@@ -44,7 +44,7 @@ I am a AI Engineer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikySu&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SaikySu&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=SaikySu&theme=radical&hide_border=true" alt="GitHub Streak" />

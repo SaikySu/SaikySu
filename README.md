@@ -21,10 +21,10 @@
 </h1>
 
 ##  About Me
-I am a AI Engineer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
+I'm a AI Engineer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
 
 
-- I'm an IT student majoring in Artificial Intelligence, actively contributing to projects as a developer specializing in Computer Vision and Large Language Models (LLMs).
+- Currently pursuing a degree in Information Technology with a specialization in Artificial Intelligence at Van Lang University. Actively contributing to projects as a developer focused on Computer Vision and Large Language Models (LLMs)..
 
 - Currently exploring the field of Technical Content Writing to share knowledge and insights.
 

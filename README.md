@@ -21,7 +21,7 @@
 </h1>
 
 ##  About Me
-I'm a AI Engineer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
+I'm a Fresher AI/ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
 
 
 - Currently pursuing a degree in Information Technology with a specialization in Artificial Intelligence at Van Lang University. Actively contributing to projects as a developer focused on Computer Vision and Large Language Models (LLMs)..
@@ -33,11 +33,13 @@ I'm a AI Engineer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ## 🔬 Research Interests
 
 - Artificial Intelligence
-- Machine Learning
 - Computer Vision
-- Natural Language Processing
+- Large Language Models
 - Deep Learning
+- Machine Learning
+- Natural Language Processing
 - Data Science
+
 
 ## 💻 GitHub Stats
 

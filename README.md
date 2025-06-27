@@ -30,15 +30,6 @@ I'm a AI Engineer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - In my free time, I enjoy diving into research papers and articles on emerging AI technologies to stay up-to-date with the latest advancements.
 
-## Research Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Natural Language Processing
-- Deep Learning
-- Data Science
-
 ## GitHub Stats
 
 <table>

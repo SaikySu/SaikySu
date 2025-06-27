@@ -21,46 +21,39 @@
 </h1>
 
 ##  About Me
-I'm a Fresher AI/ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
+I'm a AI Engineer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
 
 
-- Currently pursuing a degree in Information Technology with a specialization in Artificial Intelligence at Van Lang University. Actively contributing to projects as a developer focused on Computer Vision and Large Language Models (LLMs)..
+- Currently pursuing a degree in Information Technology with a specialization in Artificial Intelligence at Van Lang University. Actively contributing to projects as a developer focused on Computer Vision and Large Language Models (LLMs).
 
 - Currently exploring the field of Technical Content Writing to share knowledge and insights.
 
 - In my free time, I enjoy diving into research papers and articles on emerging AI technologies to stay up-to-date with the latest advancements.
 
-## 🔬 Research Interests
+## Research Interests
 
 - Artificial Intelligence
-- Computer Vision
-- Large Language Models
-- Deep Learning
 - Machine Learning
+- Computer Vision
 - Natural Language Processing
+- Deep Learning
 - Data Science
 
-
-## 💻 GitHub Stats
+## GitHub Stats
 
 <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=SaikySu&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=SaikySu&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
   </tr>
 </table>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SaikySu&label=Profile%20views&color=0e75b6&style=flat)
-
-## 💬 Most Used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaikySu&layout=compact&theme=radical)
 
-## 🧠 Tools & Frameworks
+![Profile Views](https://komarev.com/ghpvc/?username=SaikySu&label=Profile%20views&color=0e75b6&style=flat)
+
+## Tools & Frameworks
 
 ###  Programming Languages
 <div align="center">
@@ -74,7 +67,7 @@ I'm a Fresher AI/ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>s
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"/>
@@ -104,42 +97,7 @@ I'm a Fresher AI/ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </div>
 
-## 🏆 Competitions & Awards
-#### **Huawei ICT Competition – Huawei Technologies Co. ltd**  
-*Date: Dec 2024*  
-Participated in the Cloud Track - AI - Big Data category  
-**Instructor:** PhD Huynh Thai Hoc  
-**Highlights:**
-- **Container and DevOps:** Docker, Kubernetes (CCE), CI/CD  
-- **AI Services:** ModelArts, image classification, NLP APIs  
-- **Cloud Native Apps:** Microservices, Serverless (FunctionGraph)  
-
----
-
-#### **Ra Khoi 2024 – Organized by Van Lang University**  
-*Date: May 2024*  
-Built a Certificate Management Application Using Blockchain  
-**Instructor:** MSc Huynh Thanh Tuan  
-**Highlights:**
-- Developed a certificate verification app using Java and Ethereum smart contracts  
-- Application verifies information about certificates and certifications with high accuracy  
-- Reached Semi-finals  
-
----
-
-#### **Ra Khoi 2023 – Organized by Van Lang University**  
-*Date: May 2023*  
-Developed a **school tour role-playing game** using AI and Unreal Engine 5  
-[Facebook link](https://www.facebook.com/profile.php?id=100092493644972)  
-**Instructor:** MSc Ly Thi Huyen Chau  
-**Highlights:**
-- Backend AI and Environment Developer  
-- Built a game that allows users to take on the role of a student and experience events in 3D  
-- Reached Semi-finals  
-
----
-
-### 📜 Certificates
+### My Certificates
 
 - **Neural Networks and Deep Learning:** DeepLearning.io – Mar 2025  
 - **Machine Learning:** Stanford Online – Feb 2025  

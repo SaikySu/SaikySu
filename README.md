@@ -19,7 +19,7 @@
 </h1>
 
 ##  About Me
-My name is Nguyễn Phước Đại, but you can call me Saiky. I'm a AI Engineer Intern <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
+My name is Nguyễn Phước Đại, but you can call me Saiky. I'm a AI/ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from VietNam.
 
 
 - Currently pursuing a degree in Information Technology with a specialization in Artificial Intelligence at Van Lang University. Actively contributing to projects as a developer focused on Computer Vision and Large Language Models (LLMs).
